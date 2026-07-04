@@ -114,5 +114,9 @@ while not game_over:
 
     print(stages[lives]) 
     
-    
+# This code implements a simple text-based Hangman game. The player has to guess the letters of 
+# a randomly chosen word from a predefined list. The player starts with 6 lives, and each incorrect 
+# guess reduces the number of lives by one. The game continues until the player either guesses all 
+# the letters correctly or runs out of lives. The game also provides visual feedback by displaying 
+# the hangman stages as the player loses lives.
     
